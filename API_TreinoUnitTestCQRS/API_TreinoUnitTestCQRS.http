@@ -1,0 +1,6 @@
+@API_TreinoUnitTestCQRS_HostAddress = http://localhost:5265
+
+GET {{API_TreinoUnitTestCQRS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
